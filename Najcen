@@ -6,7 +6,7 @@ on:
       agent_name:
         description: 'najcen'
         required: true
-        default: 'finder'
+        default: 'najcen'
       agent_description:
         description: 'najcen'
         required: true
